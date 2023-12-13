@@ -36,13 +36,10 @@ body {
     color: #2E2F42;
 }
 
-.hd-nav-l-i-a:hover  {
+.hd-nav-l-i-a:hover, .hd-nav-l-i-a:focus  {
     color: #404BBF;
 }
 
-.hd-nav-l-i-a:active {
-    color: #404BBF;
-}
 
 .hd-add-l {
     list-style-type: none;
@@ -59,10 +56,6 @@ body {
     letter-spacing: 0.02em;
 }
 
-.hd-add-l-i-a:hover {
-    color: #404BBF;
-}
-
-.hd-add-l-i-a:active {
+.hd-add-l-i-a:hover, .hd-add-l-i-a:focus {
     color: #404BBF;
 }
