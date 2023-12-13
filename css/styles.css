@@ -28,6 +28,7 @@ body {
     font-size: 16px;
     line-height: 24px;
     text-decoration: none;
+    letter-spacing: 0.02em
 }
 
 .hd-nav-l-i-a {
@@ -35,7 +36,11 @@ body {
     color: #2E2F42;
 }
 
-.hd-nav-l-i-a:hover, .hd-nav-l-i-a:active {
+.hd-nav-l-i-a:hover  {
+    color: #404BBF;
+}
+
+.hd-nav-l-i-a:active {
     color: #404BBF;
 }
 
@@ -43,12 +48,21 @@ body {
     list-style-type: none;
 }
 
+.hd-add {
+    font-style: normal;
+}
+
 .hd-add-l-i-a {
     text-decoration: none;
-    font-style: normal;
     color: #434455;
+    line-height: 24px;
+    letter-spacing: 0.02em;
 }
 
 .hd-add-l-i-a:hover {
+    color: #404BBF;
+}
+
+.hd-add-l-i-a:active {
     color: #404BBF;
 }
