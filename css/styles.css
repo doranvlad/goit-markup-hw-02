@@ -60,11 +60,11 @@ body {
     color: #404BBF;
 }
 
-.s1 {
+.sec1 {
     background-color: #2E2F42;
 }
 
-.s1-h1 {
+.sec1-h1 {
     text-align: center;
     color: #fff;
     font-size: 56px;
@@ -73,14 +73,15 @@ body {
     letter-spacing: 0.02em;
 }
 
-.s1-bt {
+.sec1-bt {
     cursor: pointer;
     background-color: #4D5AE5;
     color: #fff;
     line-height: 1.5;
     letter-spacing: 0.04em;
+    font-weight: 500;
 }
 
-.s1-bt:hover, .s1-bt:focus {
+.sec1-bt:hover, .sec1-bt:focus {
     background-color: #404BBF;
 }
