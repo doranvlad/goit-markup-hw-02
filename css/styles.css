@@ -124,11 +124,14 @@ body {
 }
 
 .sec-three-l {
-    background-color: #fff;
     list-style-type: none;
 }
 
-.sec-three-l-i-h3 {
+.sec-three-l-i {
+    background-color: #fff;
+}
+
+.sec-three-l-i-three {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
