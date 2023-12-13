@@ -59,3 +59,28 @@ body {
 .hd-add-l-i-a:hover, .hd-add-l-i-a:focus {
     color: #404BBF;
 }
+
+.s1 {
+    background-color: #2E2F42;
+}
+
+.s1-h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+}
+
+.s1-bt {
+    cursor: pointer;
+    background-color: #4D5AE5;
+    color: #fff;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+
+.s1-bt:hover, .s1-bt:focus {
+    background-color: #404BBF;
+}
