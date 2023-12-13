@@ -108,3 +108,36 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
+.sec-three {
+    background-color: #F4F4FD;
+}
+
+.sec-three-htwo {
+    color: #2E2F42;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
+
+.sec-three-l {
+    background-color: #fff;
+    list-style-type: none;
+}
+
+.sec-three-l-i-h3 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.sec-three-l-i-p {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
